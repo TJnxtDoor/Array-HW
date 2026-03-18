@@ -1,0 +1,14 @@
+/home/nextdoor/Documents/GitHub/Array-HW/bin/Debug/net8.0/Array-HW
+/home/nextdoor/Documents/GitHub/Array-HW/bin/Debug/net8.0/Array-HW.deps.json
+/home/nextdoor/Documents/GitHub/Array-HW/bin/Debug/net8.0/Array-HW.runtimeconfig.json
+/home/nextdoor/Documents/GitHub/Array-HW/bin/Debug/net8.0/Array-HW.dll
+/home/nextdoor/Documents/GitHub/Array-HW/bin/Debug/net8.0/Array-HW.pdb
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.GeneratedMSBuildEditorConfig.editorconfig
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.AssemblyInfoInputs.cache
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.AssemblyInfo.cs
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.csproj.CoreCompileInputs.cache
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.dll
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/refint/Array-HW.dll
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.pdb
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/Array-HW.genruntimeconfig.cache
+/home/nextdoor/Documents/GitHub/Array-HW/obj/Debug/net8.0/ref/Array-HW.dll
