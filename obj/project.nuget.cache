@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "05UbTSjns1mmCTX+LmJ3irKObSaj/Jy0hGAxAzlLDdKAVbT7jtlJy4F1OG0SikP3H4pBw9FTJLqvGmLg3w8MRA==",
+  "dgSpecHash": "qolv5u/15h8=",
   "success": true,
-  "projectFilePath": "/home/nextdoor/Documents/GitHub/Array-HW/Array-HW.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/droid/Array-HW-1/Array-HW.csproj",
+  "expectedPackageFiles": [
+    "/home/droid/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
